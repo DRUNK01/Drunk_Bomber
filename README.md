@@ -19,7 +19,7 @@ git clone https://github.com/DRUNK01/Drunk_Bomber.git
 
 cd Drunk_Bomber
 
-python main_enc_enc.py
+python main_enc.py
 ```
 
 
