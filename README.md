@@ -1,4 +1,6 @@
 # Drunk_Bomber
+# Terms 
+# I Won't Held Responsible For Any Kind Of Misuses . Use At Your Own Risk . You Will Be Held For Any Kind Of Misuse and Damage Delt By The Program . By Downloading and Running The Program You Will Accept These terms . 
 SMS Bombing Tool
 ```
 termux-setup-storage
